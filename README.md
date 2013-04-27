@@ -1,4 +1,1 @@
-CJ
-==
-
 Google CodeJam solutions
